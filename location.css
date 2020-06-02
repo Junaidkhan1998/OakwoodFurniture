@@ -1,0 +1,53 @@
+#foot-icon:hover{
+    color: black;
+}
+#foot-icon{
+font-size: 20px;
+margin: 10px 25px 0px 25px;
+}
+.btn:hover{
+color: white !important;
+background-color: rgb(57, 57, 245) !important;
+border: 2px solid white !important;
+border-radius: 6px;
+}
+.btn{
+color: black !important;
+background-color: white !important;
+border: 1px solid black !important;
+}
+
+#navbar{
+    background-color: darkred !important;
+    
+  }
+
+#main-navbar{
+    background-color: darkred !important;
+}
+  
+  .nav-link{
+    color: aliceblue !important;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: serif;
+  }
+  
+  #navbarSupportedContent{
+    margin-left: 200px;
+    
+  }
+  .nav-item{
+    padding: 0px 15px 0px 15px !important;
+    
+  }
+  
+  .dropdown-item{
+    color: aliceblue !important;
+    background-color: black !important;
+  }
+  
+  .dropdown-menu{
+    color: aliceblue !important;
+    background-color: black !important;
+  }
